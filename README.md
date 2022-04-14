@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @lucasgabrielba
+- 👀 I'm interested in Software Development
+- 🌱 I'm currently learning HTML, CSS and JavaScript.
+- 📫 How to reach me: lucasgabrielba@gmail.com
