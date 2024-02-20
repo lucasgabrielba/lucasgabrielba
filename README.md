@@ -1,4 +1,1 @@
-- 👋 Hi, I'm @lucasgabrielba
-- 👀 I'm interested in Software Development
-- 🌱 I'm currently learning HTML, CSS, JavaScript, React and Node.
-- 📫 How to reach me: lucasgabrielba@gmail.com
+👨‍💻 Full-stack developer proficient in PHP (Laravel) and JavaScript, with expertise in code patterns, software architecture, and best practices. Currently, contributing to the MVP team. Let's build something amazing together!
